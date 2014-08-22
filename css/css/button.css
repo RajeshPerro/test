@@ -1,0 +1,18 @@
+.button1{
+ 
+    
+  width: 111px;
+    font-family:calibri;
+    color: white;
+    border: none;
+    
+  height: 36px;
+    background: #377af1;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    font-size: 15px;
+    font-weight: 700;;
+    
+   
+}

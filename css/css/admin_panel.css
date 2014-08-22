@@ -1,0 +1,131 @@
+.ad_welcome{
+    width: 98%;
+    height: 340px;
+    margin: 10px;
+    font-size: 39px;
+    text-align: center;
+    }
+    
+    .ad_news_update{
+     width: 92%;
+    height: 296px;
+    margin: 10px;
+    font-size: 18px;
+    padding-left: 52px;
+    text-align: left;
+    padding-top: 33px;
+    float: left;
+    padding-right: 7px;
+    }
+    
+    .ad_notice_manager{
+        
+    width: 93.5%;
+    height: auto;
+    margin: 10px;
+    font-size: 18px;
+    padding-left: 40px;
+    padding-top: 48px;
+    text-align: left;
+           
+    }
+	.downlaod_manager{
+        
+    width: 93.5%;
+    height: auto;
+    margin: 10px;
+    font-size: 18px;
+    padding-left: 40px;
+    padding-top: 48px;
+    text-align: left;
+           
+    }
+	
+	.Quiclink_manager{
+        
+    width: 93.5%;
+    height: auto;
+    margin: 10px;
+    font-size: 18px;
+    padding-left: 40px;
+    padding-top: 48px;
+    text-align: left;
+           
+    }
+	.gallery_manager{
+        
+    width: 93.5%;
+	height:auto;
+    min-height: 210px;
+    margin: 10px;
+    font-size: 18px;
+    padding-left: 40px;
+    padding-top: 48px;
+    text-align: left;
+           
+    }
+	.Slider_manager{
+        
+    width: 93.5%;
+	height:auto;
+    min-height: 210px;
+    margin: 10px;
+    font-size: 18px;
+    padding-left: 40px;
+    padding-top: 48px;
+    text-align: left;
+           
+    }
+	.Password_manager{
+        
+    width: 93.5%;
+	height:auto;
+    min-height: 210px;
+    margin: 10px;
+    font-size: 18px;
+    padding-left: 40px;
+    padding-top: 48px;
+    text-align: left;
+           
+    }
+	.Homeeditor_manager{
+        
+    width: 98.5%;
+	height:auto;
+    min-height: 340px;
+    margin: 10px;
+    font-size: 18px;
+    text-align: left;
+           
+    }
+	.Fees_manager{
+        
+    width: 93.5%;
+	height:auto;
+    min-height: 440px;
+    margin: 10px;
+    font-size: 18px;
+    text-align: left;
+           
+    }
+	.Contact_manager{
+        
+    width: 93.5%;
+	height:auto;
+    min-height: 340px;
+    margin: 10px;
+    font-size: 18px;
+    text-align: left;
+           
+    }
+	.aboutboard_manager{
+        
+    width: 98.5%;
+	height:auto;
+    min-height: 340px;
+    margin: 10px;
+    font-size: 18px;
+    text-align: left;
+           
+    }
+	.aboutboard_manager select option{ height:25px;}
